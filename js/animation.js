@@ -293,7 +293,7 @@ trBtn.onclick = function () {
 
     // Setting activeCorner
     activeCorner = "top-right";
-    trBtn.innerHTML = "&uarr;<br/>Experience";
+    trBtn.innerHTML = "&uarr;<br/>Skills";
 
     handleWindowResize();
     playAnimation("animate-top-right", "reverse-animate-top-right");
